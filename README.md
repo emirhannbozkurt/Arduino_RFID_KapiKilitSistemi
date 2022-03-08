@@ -22,10 +22,9 @@ Kullanıcı tarafından sisteme tanımlı olan kartların RFID modülüne okutul
 Proje özelliklerinden bahsedecek olursak :
 
 1) Ekranda kapı açık , kapalı , geçersiz ID uyarılarının yanı sıra her zaman nem ve sıcaklık bilgisi verilmektedir.
-2) 
-3)RFID sistemi sayesinde tanımlanmış olan kartlar ile giriş sağlanabilmekte veya tanımlanmamış kart okutulduğu zaman kapı açılmamakla birlikte sistem kırmızı lambasını yakmakta .
+2) RFID sistemi sayesinde tanımlanmış olan kartlar ile giriş sağlanabilmekte veya tanımlanmamış kart okutulduğu zaman kapı açılmamakla birlikte sistem kırmızı lambasını yakmakta.
 
-3)Buton ile birlikte kapının diğer tarafından kilit sistemi açılmakta.
+4)Buton ile birlikte kapının diğer tarafından kilit sistemi açılmakta.
 
 4)Buzzer ile kapı açıldı uyarısı verilmekte.
 
